@@ -13,7 +13,7 @@ import java.util.*;
 public class Main {
 
     //main driver of the program
-    //main driver of the programeeee
+    //main driver of the program-eeeee
     public static void main(String[] args) {
         getInputAndRunCaesar();
     }
